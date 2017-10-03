@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+#ifdef DEBUG${1:_}
+	fprintf(stderr, "${2}\n");
+	fprintf(stderr, "press ENTER to keep going..."); getchar(); /* Enterが押されるまで待機する */
+#endif
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ifdefdebug</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+</snippet>

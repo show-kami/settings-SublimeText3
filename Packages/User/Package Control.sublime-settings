@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Codecs33",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Fold Comments",
+		"Git",
+		"GitGutter",
+		"Japanize",
+		"Language 1C (BSL)",
+		"LaTeXTools",
+		"Monokai Extended",
+		"Origami",
+		"Package Control",
+		"R-Box",
+		"R-snippets",
+		"RecentActiveFiles",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Terminal"
+	]
+}

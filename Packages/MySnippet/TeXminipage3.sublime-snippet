@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[htbp]
+    \begin{minipage}{0.33\hsize}
+        \begin{center}%\fbox{
+        \includegraphics[scale = 1.0, bb = 0 0 width height]{path}%}
+        \caption{ caption }
+        \label{ label }
+        \end{center}
+    \end{minipage}
+    \begin{minipage}{0.33\hsize}
+        \begin{center}%\fbox{
+        \includegraphics[scale = 1.0, bb = 0 0 width height]{path}%}
+        \caption{ caption }
+        \label{ label }
+        \end{center}
+    \end{minipage}
+    \begin{minipage}{0.33\hsize}
+        \begin{center}%\fbox{
+        \includegraphics[scale = 1.0, bb = 0 0 width height]{path}%}
+        \caption{ caption }
+        \label{ label }
+        \end{center}
+    \end{minipage}
+\end{figure}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>minipage3</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex</scope>
+</snippet>

@@ -1,0 +1,28 @@
+{
+    "always_show_minimap_viewport": true,
+    "auto_indent": true,
+    "color_scheme": "Packages/Color Scheme - User/Monokai Comment.tmTheme",
+    "default_encoding": "UTF-8",
+    "draw_white_space": "all",
+    "fade_fold_buttons": false,
+    "fallback_encoding": "UTF-8",
+    "fold_buttons": true,
+    "font_face": "Ricty Discord",
+    "font_size": 15.0,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Japanize",
+        "Monokai Extended",
+        "Vintage"
+    ],
+    "indent_subsequent_lines": true, //折り返された行のインデント位置を揃える
+    "indent_to_bracket": true,
+    "line_padding_top": 2,
+    "mdpopups.sublime_user_lang_map": null,
+    "mdpopups.use_sublime_highlighter": null,
+    "scroll_past_end": true,
+    "show_encoding": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": false
+}

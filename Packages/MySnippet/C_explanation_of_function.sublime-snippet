@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+//--------------------------------------------------------------------------
+// 関数名	:${1}
+// 概要		:${2}
+// 戻り値	:${3}
+// 引数		:${4}
+//--------------------------------------------------------------------------
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>explanation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+</snippet>
