@@ -1,5 +1,5 @@
 // super はcmdキーを意味する！
 [
-	{ "keys": ["ctrl+shift+a"], "command": "Abacus Align" },
+	{ "keys": ["\u00a5"], "command": "insert", "args": {"characters": "\\"}} // 円マークをバックスラッシュに
 
 ]
